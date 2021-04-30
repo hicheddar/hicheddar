@@ -29,7 +29,6 @@ we had made the game loop, reload stations, kill counters, everything. the game 
 she hears is a work in progress 3 player horror game where the key is to communicate with as little interaction. every time you communicate, she gets closer, and when she gets closer, she bites. its a slightly scripted puzzle game where you have to communicate and solve puzzles with each others help. in basic sense, say one person has all the codes for a bunch of code doors everyone has, that person has to tell the others the codes with as little messages as possible or they will die. we have a dynamic system where puzzles drop out and mix and match for harder ones when people die, and the last person standing who can make it out alive wins the game.
 
 ## thats all ive ever worked on for roblox!
-here are some funny stats
 <a href="https://github.com/hicheddar">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=hicheddar&show_icons=true&theme=dark"/> 
 
